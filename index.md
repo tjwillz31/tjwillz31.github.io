@@ -32,4 +32,5 @@ Analysis that I've done for articles written on [PlayerProfiler](https://playerp
 Feel free to get in touch!
 
 - email: taylorjwilliams31@gmail.com
+- github: https://github.com/tjwillz31
 - twitter: @tjwillz31
