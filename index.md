@@ -1,5 +1,3 @@
-# Hi there, my name is Taylor Williams
-
 I'm a data scientist using both Python and R. I'm passionate about using data to help drive better decision making.
 
 In June of 2021, I graduated from the University of Chicago's Masters of Science in Analytics program. For our capstone project, my team and I worked with Conservation Labs' proprietary sound data to classify water fixture usage in multi-family homes. The project won best in show for our session.
